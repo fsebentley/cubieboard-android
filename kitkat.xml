@@ -21,7 +21,7 @@
   <remote  name="jekstrand"
            fetch="https://github.com/jekstrand" />
 
-  <default revision="refs/branches/cm-11.0"
+  <default revision="refs/heads/cm-11.0"
            remote="github"
            sync-c="true"
            sync-j="4" />
