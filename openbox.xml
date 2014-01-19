@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote  name="github" fetch="https://github.com/cubieboard/" />
+    <remote  name="cyanogenmod" fetch=".." review="review.cyanogenmod.org" />
+    
     <default revision="openbox" remote="github" sync-j="4" />
+    
+    <!-- CM Addons -->
+    <project path="packages/apps/Apollo" remote="cyanogenmod"
+        name="CyanogenMod/android_packages_apps_Apollo" />
+    <project path="packages/apps/CMFileManager" 
+        name="CyanogenMod/android_packages_apps_CMFileManager" />
+    <project path="packages/apps/DSPManager" 
+        name="CyanogenMod/android_packages_apps_DSPManager" />
+    <project path="packages/apps/Launcher2" 
+        name="CyanogenMod/android_packages_apps_Launcher2" />
+    <project path="packages/apps/Stk" 
+        name="CyanogenMod/android_packages_apps_Stk" />
 
     <project name="openbox_abi_cpp" path="abi/cpp" />
     <project name="openbox_bionic" path="bionic" />
