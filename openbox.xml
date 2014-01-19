@@ -9,7 +9,7 @@
     <project path="packages/apps/Apollo" remote="cyanogenmod"
         name="CyanogenMod/android_packages_apps_Apollo" revision="ics" />
     <project path="packages/apps/CMFileManager" remote="cyanogenmod"
-        name="CyanogenMod/android_packages_apps_CMFileManager" revision="ics" />
+        name="CyanogenMod/android_packages_apps_CMFileManager" revision="jellybean" />
     <project path="packages/apps/DSPManager" remote="cyanogenmod"
         name="CyanogenMod/android_packages_apps_DSPManager" revision="ics" />
     <project path="packages/apps/Launcher2" remote="cyanogenmod"
