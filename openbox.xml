@@ -8,13 +8,13 @@
     <!-- CM Addons -->
     <project path="packages/apps/Apollo" remote="cyanogenmod"
         name="CyanogenMod/android_packages_apps_Apollo" />
-    <project path="packages/apps/CMFileManager" 
+    <project path="packages/apps/CMFileManager" remote="cyanogenmod"
         name="CyanogenMod/android_packages_apps_CMFileManager" />
-    <project path="packages/apps/DSPManager" 
+    <project path="packages/apps/DSPManager" remote="cyanogenmod"
         name="CyanogenMod/android_packages_apps_DSPManager" />
-    <project path="packages/apps/Launcher2" 
+    <project path="packages/apps/Launcher2" remote="cyanogenmod"
         name="CyanogenMod/android_packages_apps_Launcher2" />
-    <project path="packages/apps/Stk" 
+    <project path="packages/apps/Stk" remote="cyanogenmod"
         name="CyanogenMod/android_packages_apps_Stk" />
 
     <project name="openbox_abi_cpp" path="abi/cpp" />
