@@ -7,15 +7,15 @@
     
     <!-- CM Addons -->
     <project path="packages/apps/Apollo" remote="cyanogenmod"
-        name="CyanogenMod/android_packages_apps_Apollo" />
+        name="CyanogenMod/android_packages_apps_Apollo" revision="ics" />
     <project path="packages/apps/CMFileManager" remote="cyanogenmod"
-        name="CyanogenMod/android_packages_apps_CMFileManager" />
+        name="CyanogenMod/android_packages_apps_CMFileManager" revision="ics" />
     <project path="packages/apps/DSPManager" remote="cyanogenmod"
-        name="CyanogenMod/android_packages_apps_DSPManager" />
+        name="CyanogenMod/android_packages_apps_DSPManager" revision="ics" />
     <project path="packages/apps/Launcher2" remote="cyanogenmod"
-        name="CyanogenMod/android_packages_apps_Launcher2" />
+        name="CyanogenMod/android_packages_apps_Launcher2" revision="ics" />
     <project path="packages/apps/Stk" remote="cyanogenmod"
-        name="CyanogenMod/android_packages_apps_Stk" />
+        name="CyanogenMod/android_packages_apps_Stk" revision="ics" />
 
     <project name="openbox_abi_cpp" path="abi/cpp" />
     <project name="openbox_bionic" path="bionic" />
@@ -205,7 +205,6 @@
     <project name="openbox_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" />
     <project name="openbox_packages_apps_SpareParts" path="packages/apps/SpareParts" />
     <project name="openbox_packages_apps_SpeechRecorder" path="packages/apps/SpeechRecorder" />
-    <project name="openbox_packages_apps_Stk" path="packages/apps/Stk" />
     <project name="openbox_packages_apps_Tag" path="packages/apps/Tag" />
     <project name="openbox_packages_apps_VideoEditor" path="packages/apps/VideoEditor" />
     <project name="openbox_packages_apps_VoiceDialer" path="packages/apps/VoiceDialer" />
