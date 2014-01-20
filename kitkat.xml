@@ -36,7 +36,7 @@
   <project path="android" name="CyanogenMod/android" />
 
   <!-- matson start -->
-  <project path="frameworks/base" name="android_frameworks_base" remote="github" revision="refs/heads/cm-11.0" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
   <project path="device/allwinner/cubieboard" name="android_device_allwinner_cubieboard" remote="tistaharahap" revision="kitkat-cubieboard" />
   <project path="hardware/realtek" name="android_hardware_realtek" remote="matson" revision="jb-cubieboard" />
   <project path="vendor/allwinner" name="proprietary_vendor_allwinner" remote="matson" revision="jb-cubieboard" />
