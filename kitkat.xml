@@ -108,7 +108,7 @@
   <project path="external/esd" name="CyanogenMod/android_external_esd" />
   <project path="external/expat" name="CyanogenMod/android_external_expat" />
   <project path="external/eyes-free" name="CyanogenMod/android_external_eyes-free" />
-  <project path="external/fat32lib" name="CyanogenMod/android_external_fat32lib" revision="refs/heads/jellybean-stable" />
+  <project path="external/fat32lib" name="CyanogenMod/android_external_fat32lib" revision="refs/heads/cm-10.1" />
   <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" />
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" />
@@ -242,7 +242,7 @@
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" revision="refs/heads/jellybean-stable" />
-  <project path="frameworks/compile/llvm-ndk-cc" name="CyanogenMod/android_frameworks_compile_llvm-ndk-cc" revision="refs/heads/jellybean-stable" />
+  <project path="frameworks/compile/llvm-ndk-cc" name="CyanogenMod/android_frameworks_compile_llvm-ndk-cc" revision="refs/heads/cm-10.1" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
