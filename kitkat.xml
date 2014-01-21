@@ -41,7 +41,7 @@
   <!-- matson start -->
   <!--<project path="frameworks/base" name="android_frameworks_base" remote="matson" revision="jb-cubieboard" />-->
   <!-- <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />-->
-  <project path="frameworks/base" name="openbox_frameworks_base" remote="openbox" />
+  <project path="frameworks/base" name="openbox_frameworks_base" remote="openbox" revision="openbox" />
   
   <project path="device/allwinner/cubieboard" name="android_device_allwinner_cubieboard" remote="tistaharahap" revision="kitkat-cubieboard" />
   <project path="hardware/realtek" name="android_hardware_realtek" remote="matson" revision="jb-cubieboard" />
